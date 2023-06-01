@@ -10,7 +10,7 @@
 .pnp.*
 
 #env file
-.env-bak
+.env
 # dependencies
 /node_modules
 /.yarn
