@@ -16,9 +16,9 @@ export const Footer = () => {
   return (
     <FooterDiv>
       Made with ❤️ by{" "}
-      <Link href="https://www.youtube.com/channel/UCJV16_5c4A0amyBZSI4yP6A" passHref>
+      <Link href="https://www.twitter.com/sitishinikimiti/" passHref>
         <MuiLink target="_blank" rel="noopener referrer">
-          Matt Sokola
+          Sitishinikimiti
         </MuiLink>
       </Link>
     </FooterDiv>
