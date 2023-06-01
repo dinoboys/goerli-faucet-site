@@ -9,8 +9,12 @@
 !.yarn/versions
 .pnp.*
 
+#env file
+.env
+
 # dependencies
 /node_modules
+/.yarn
 /.pnp
 .pnp.js
 
